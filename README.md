@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasmustofa&label=Profile%20views&color=0e75b6&style=flat" alt="andreasmustofa" /> </p>
 
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="20" fill="#8B4513" />
-  <circle cx="150" cy="50" r="20" fill="#8B4513" />
-  <circle cx="100" cy="100" r="60" fill="#A0522D" />
-  <circle cx="80" cy="90" r="7" fill="#000000" />
-  <circle cx="120" cy="90" r="7" fill="#000000" />
-  <ellipse cx="100" cy="115" rx="10" ry="6" fill="#000000" />
-  <path d="M90 130 Q100 140 110 130" stroke="#000" stroke-width="3" fill="transparent" />
-</svg>
+<p align="center">
+  <img src="https://github.com/andreasmustofa/andreasmustofa/raw/main/assets/bear.svg" width="200" alt="Bear Icon" />
+</p>
+
 
 
 - 🔭 I’m currently working on [Vortex](https://www.vortex.so/)
