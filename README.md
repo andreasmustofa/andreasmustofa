@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasmustofa&label=Profile%20views&color=0e75b6&style=flat" alt="andreasmustofa" /> </p>
 
 <p align="center">
-  <img src="https://github.com/andreasmustofa/andreasmustofa/bear.svg" width="200" alt="Bear Icon" />
+  <img src="https://github.com/andreasmustofa/andreasmustofa/raw/main/bear.svg" width="200" alt="Bear Icon" />
 </p>
 
 
